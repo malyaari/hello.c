@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main (void){
-  printf("Hello Worldg!");
+  printf("Mohammed Al yaaribi ");
+  printf("Electrical Engineering");      
 
   return 0;
 }
